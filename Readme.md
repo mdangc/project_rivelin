@@ -26,4 +26,13 @@
 - Unlimited resources with online ebooks + funds 
 - Vivado + Altium 
 
+## To do 
+
+Practising C programming
+Test Driven Development 
+
+
+
+
+
 
